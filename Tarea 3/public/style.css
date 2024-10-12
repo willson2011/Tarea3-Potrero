@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+    background-image: url(../public/img/pink-and-green-background-kh6mk5c6shpjqzfz.webp)
+   ;
+}
+
+h1 {font-family: "Dancing Script", cursive;
+
+    color: green;
+    font-size: 50px;
+    border-style: double ;
+    border-color: darksalmon;
+    border-radius: 5px;
+    width: 500px;
+    padding: auto;
+    margin-top: 5px;
+}
+h2 {
+    font-family: "Dancing Script", cursive  ;
+
+    color:saddlebrown ;
+    font-size: 40px;
+    border: 5px darksalmon double ;
+    padding-top: 5px ;
+    margin-top: 5px;
+    width: 350px;
+}
+h3 {
+    font-family: "Dancing Script", cursive;
+    color: brown;
+    font-size: 30px;
+    border: 5px darksalmon double ;
+    padding-left: 80px;
+    margin-top: 50px;
+    width: 350px;
+}
+.colorlila{
+    font-family: "Dancing Script", cursive;
+
+color: blueviolet;
+}
+li{
+    font-family: "Dancing Script", cursive;
+
+    color: rgba(184, 11, 11,100%);
+}
+.colorverde{
+    font-family: "Dancing Script", cursive green;
+
+} /* si se aplica el cambio de fuente pero no el color */
+.colorcyan{ 
+    font-family: "Dancing Script", cursive ;
+    font-size: 15px;
+    color: aqua;
+
+}
+#colorred{
+    font-family: "Dancing Script", cursive ;
+font-size: 15px;
+color:cyan;
+}
+#colorazul{
+    font-family: "Dancing Script", cursive ;
+font-size: 15px ;
+color: cyan;
+
+    
+}
+.img {
+    border: 5px darksalmon double;
+    height: 50%;
+    width: 49%;
+}
